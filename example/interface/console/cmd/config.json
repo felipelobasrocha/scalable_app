@@ -1,0 +1,11 @@
+{
+    "default_data_base": "sql_server",
+    "data_settings": {
+        "sql_server": {
+            "connection_string": "DRIVER={ODBC Driver 17 for SQL Server};SERVER=localhost;DATABASE=example;UID=SA;PWD=1qaz@WSX"
+        },
+        "mongodb": {
+            "connection_string": "mongodb://localhost:27017"
+        }
+    }
+}
